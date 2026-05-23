@@ -1,60 +1,25 @@
-# Hello, I'm JIDEOFOR EZEAH
-<a href="www.linkedin.com/in/
-jideofor-ezeah-a17358321
-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hi, I'm Jideofor Ezeah 👋
 
-## Brief Introduction
+Cloud Engineer | AWS | Terraform | Docker | Kubernetes | Security
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I build secure, scalable cloud infrastructure on AWS. Background in cybersecurity
+(Google Cybersecurity Certificate) with a focus on IAM, VPC architecture, and
+container-based deployments.
 
-## Objective
+## 🔧 Tech Stack
+```
+AWS (IAM · VPC · EC2 · ECS · EKS · Lambda · S3 · RDS · CloudWatch)
+Terraform · Docker · Kubernetes · GitHub Actions · Python · Bash
+```
 
+## 📌 Featured Projects
+→ **[terraform-aws-vpc](https://github.com/thegoldenon/terraform-aws-vpc)** — Complete VPC as Terraform modules
+→ **[aws-vpc-networking](https://github.com/thegoldenon/aws-vpc-networking)** — Multi-AZ VPC architecture (Days 8–13)
+→ **[iam-security-architecture](https://github.com/thegoldenon/iam-security-architecture)** — AWS account hardening + SCPs
+→ **[serverless-api-lambda-dynamodb](https://github.com/thegoldenon/serverless-api-lambda-dynamodb)** — Lambda + API Gateway + DynamoDB
+→ **[Cloud App: Terraform + Docker + CI/CD](https://github.com/thegoldenon)** — Full capstone *(coming soon)*
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-## Skills
-
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
-
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-
-<div>
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certification-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
-
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
-- <a href="https://github.com/thegoldenon/Security-Laws">Governance,Risk and Compliance</a>
+## 📫 Let's connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/jideofor-ezeah)
+📧 jideoforezeah@gmail.com
+🌍 Open to remote Cloud Engineer / Cloud Administrator roles worldwide
